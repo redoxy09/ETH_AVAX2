@@ -16,7 +16,7 @@ we haven't used hardhat or react.js because- there were many unresolvable errors
 
 ### Project Rundown as follow:-
 1) at first we need to deploy our smart contract in any of the test network using remix.
-2) now copy the contract address and contract abi in our `index.html` file.
+2) now copy the contract address and contract abi in our `HTML/index.html` file.
 3) now run html file in any of the browser which support web3 wallet like metamask.
 4) connect wallet with the page using same test network that was used for deployment.
 5) run the `setMood` and `getMood` function and sign the transaction using web3 wallet.
