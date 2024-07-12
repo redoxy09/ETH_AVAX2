@@ -12,7 +12,7 @@ This is a simple smart contract called `mooddiary` written in Solidity. The cont
 ## This contract further connects to `Index.html` 
 
 ## Note :- we are Just using a single html file to interact with our smartcontract
-we haven't used hardhat or react.js because- "ether.js library was giving error as it has been superseded by helia"
+we haven't used hardhat or react.js because- there were many unresolvable errors so i kept my project simple.
 
 ### Project Rundown as follow:-
 1) at first we need to deploy our smart contract in any of the test network using remix.
