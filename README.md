@@ -1,4 +1,4 @@
-# Metacrafters Smart Contract
+# Metacrafters FUNCTION FRONTEND
 
 This is a simple smart contract called `mooddiary` written in Solidity. The contract allows users to set and get their mood.
 
